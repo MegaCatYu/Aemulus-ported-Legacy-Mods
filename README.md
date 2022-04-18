@@ -7,4 +7,4 @@ To contribute, make a pr adding a .7z file of a mod converted to work with Aemul
 
 Notice: 
 If you have created one of the mods on here and would like it to be taken down, contact me at MegaCatYu#4608 at discord.gg/naoto.
-I'm extremely new to using Github repositories, so I apologize in advance for anything that looks unusual.
+I'm extremely new to creating Github repositories, so I apologize in advance for anything that looks unusual.
